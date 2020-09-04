@@ -5,7 +5,7 @@ Merhabalar,
 
 ![/weeks/1.hafta.md](/images/button-1.png)
 </br>
-![](/images/button-2.png)
+![/images/button-2.png](/weeks/1.hafta.md)
 </br>
 ![](/images/button-3.png)
 </br>
